@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Crabby Patty Recipe(a ClickBait!!)",
+      "body": "lorem ipsum...",
+      "author": "Plankton",
+      "id": "1"
+    },
+    {
+      "title": "Anger Management",
+      "body": "lorem ipsum...",
+      "author": "Squidward",
+      "id": "2"
+    },
+    {
+      "title": "Why is Gary such stupid pet!",
+      "body": "lorem ipsum...",
+      "author": "SpongeBob",
+      "id": "3"
+    },
+    {
+      "title": "Am i umemployed or just on my own?",
+      "body": "lorem ipsum...",
+      "author": "Patrick",
+      "id": "4"
+    },
+    {
+      "id": "3402",
+      "title": "August",
+      "body": "Salt air and the rust on my door...",
+      "author": ""
+    }
+  ]
+}
